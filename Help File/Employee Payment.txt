@@ -1,0 +1,3 @@
+First you chose supplier name form "Supplier" box. Then you fill manually "Payment Date". Due amount will
+auto calculate and Current amount manually you set then balance will auto calculate. After doing this just press
+"Save" button to insert the information into database. After Successfully done then it show a successull message.

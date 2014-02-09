@@ -1,0 +1,21 @@
+
+# Insertion Option
+
+Here you store employee.'s all information. To store info in database you must fill up "all option otherwise you 
+can't save employee informatio. Fill the all empty white fields and press "Add" button to save informtion about
+Employee. After Successfully done then it see a successull message.
+
+
+# Edit Option
+
+In this option you can edit employee information. First chose the Employee name which one you want to edit then
+change the information and just press "Save" button. After Successfully done then it show a successull message.
+
+
+# Delete Option
+
+
+In this option you can delete Employee. First chose the employee name which one you want to delete then 
+just press the "Delete" button. After Successfully done then it show a successull message.
+
+

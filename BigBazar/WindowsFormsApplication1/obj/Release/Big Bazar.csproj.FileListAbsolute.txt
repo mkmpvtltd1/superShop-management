@@ -1,0 +1,135 @@
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AdjustmentItems.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Administration.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ChallanDelete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ChallanEdit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_in.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_info.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return_delete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return_edit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage_delete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage_edit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_delete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_edit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_info.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_payment.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.group_view.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.item.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemBalanceReport.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemDelete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemEdit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.mainform.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Sales.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.security.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplier.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierDelete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierEdit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplier_payment_insert.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transfer_delete.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transfer_edit.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transformItem.resources
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\Big Bazar.csproj.GenerateResource.Cache
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+F:\DropShare\Dropbox\Public\Big Bazar\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Administration.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ChallanDelete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ChallanEdit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_in.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_info.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return_delete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return_edit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage_delete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage_edit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_delete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_edit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_info.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_payment.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.group_view.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.item.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemBalanceReport.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemDelete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemEdit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.mainform.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.saleEdit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Sales.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.security.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplier.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierDelete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierEdit.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplier_payment_insert.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transfer_delete.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transformItem.resources
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\Big Bazar.csproj.GenerateResource.Cache
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+F:\DropShare\Dropbox\Photos\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\Interop.Crystal.dll
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\Interop.CrystalActiveXReportViewerLib13.dll
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\bin\Release\Interop.CrystalReportViewerExportLib.dll
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\Interop.Crystal.dll
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\Interop.CrystalActiveXReportViewerLib13.dll
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\Interop.CrystalReportViewerExportLib.dll
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\Big Bazar.csproj.ResolveComReference.cache
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AboutBox1.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.about_bb.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Administration.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.allitemBalView.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ChallanDelete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ChallanEdit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_in.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_info.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return_delete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.challan_return_edit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage_delete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.damage_edit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.devel.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_delete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_edit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_info.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.employee_payment.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EMPRepotViews.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.group_view.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.item.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemBalanceReport.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemBalanceSaleW.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemDelete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemEdit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.itemInformatonReportViews.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ItemLager.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.mainform.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.PrintMemo.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ProfitRSelection.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.profitView.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.saleEdit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.saleItemBalDAteView.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.SaleReportView.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Sales.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.SalesViewItemDAte.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.security.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supBalPaymentRViews.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplier.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierDelete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierEdit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplierReportViews.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.supplier_payment_insert.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transfer_delete.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transFormEdit.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.transformItem.resources
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\Big Bazar.csproj.GenerateResource.Cache
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+F:\DropShare\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

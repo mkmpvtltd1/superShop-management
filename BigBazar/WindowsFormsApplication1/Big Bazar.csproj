@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3864B444-3678-4D29-BCF9-C1F64AC3EEC7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>lofdsfgo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="about_bb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration.Designer.cs">
+      <DependentUpon>Administration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllBalReportRange.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AllBalReportRange.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AllitemBalDate.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AllitemBalDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="allitemBalView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="allitemBalView.Designer.cs">
+      <DependentUpon>allitemBalView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="allProfit.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>allProfit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ChallanDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChallanDelete.Designer.cs">
+      <DependentUpon>ChallanDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChallanEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChallanEdit.Designer.cs">
+      <DependentUpon>ChallanEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="challan_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="challan_in.Designer.cs">
+      <DependentUpon>challan_in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="challan_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="challan_info.Designer.cs">
+      <DependentUpon>challan_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="challan_return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="challan_return.Designer.cs">
+      <DependentUpon>challan_return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="challan_return_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="challan_return_delete.designer.cs">
+      <DependentUpon>challan_return_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="challan_return_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="challan_return_edit.designer.cs">
+      <DependentUpon>challan_return_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="damage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="damage.Designer.cs">
+      <DependentUpon>damage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="damage_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="damage_delete.designer.cs">
+      <DependentUpon>damage_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="damage_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="damage_edit.designer.cs">
+      <DependentUpon>damage_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DateDifference.cs" />
+    <Compile Include="devel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="devel.Designer.cs">
+      <DependentUpon>devel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_delete.designer.cs">
+      <DependentUpon>employee_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_edit.designer.cs">
+      <DependentUpon>employee_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_info.Designer.cs">
+      <DependentUpon>employee_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_payment.Designer.cs">
+      <DependentUpon>employee_payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empPayDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>empPayDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="empPrintSlip.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>empPrintSlip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EMPRepotViews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPRepotViews.Designer.cs">
+      <DependentUpon>EMPRepotViews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="group_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="group_view.Designer.cs">
+      <DependentUpon>group_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ILdataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ILdataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="item.designer.cs">
+      <DependentUpon>item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemBalanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemBalanceReport.Designer.cs">
+      <DependentUpon>ItemBalanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemBalanceSaleW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemBalanceSaleW.Designer.cs">
+      <DependentUpon>ItemBalanceSaleW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemDelete.Designer.cs">
+      <DependentUpon>ItemDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemEdit.Designer.cs">
+      <DependentUpon>ItemEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemInformationReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>itemInformationReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="itemInformatonReportViews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemInformatonReportViews.Designer.cs">
+      <DependentUpon>itemInformatonReportViews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemLager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemLager.Designer.cs">
+      <DependentUpon>ItemLager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LagerReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LagerReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LagerReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.cs">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintMemo.Designer.cs">
+      <DependentUpon>PrintMemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profitReportDate.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>profitReportDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProfitRSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfitRSelection.Designer.cs">
+      <DependentUpon>ProfitRSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profitView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profitView.Designer.cs">
+      <DependentUpon>profitView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="saleEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saleEdit.Designer.cs">
+      <DependentUpon>saleEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saleItemBalDAteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saleItemBalDAteView.Designer.cs">
+      <DependentUpon>saleItemBalDAteView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saleReportDateRange.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>saleReportDateRange.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SaleReportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleReportView.Designer.cs">
+      <DependentUpon>SaleReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesItemBalDAte.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesItemBalDAte.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="salesReportDate.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>salesReportDate.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SalesViewItemDAte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesViewItemDAte.Designer.cs">
+      <DependentUpon>SalesViewItemDAte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="security.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="security.Designer.cs">
+      <DependentUpon>security.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="supBalPaymentRViews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supBalPaymentRViews.Designer.cs">
+      <DependentUpon>supBalPaymentRViews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supBalPaymentSlip.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>supBalPaymentSlip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="supBalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>supBalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="suplierPaymentDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>suplierPaymentDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplier.Designer.cs">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplierDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplierDelete.Designer.cs">
+      <DependentUpon>supplierDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplierEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplierEdit.Designer.cs">
+      <DependentUpon>supplierEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplierReportViews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplierReportViews.Designer.cs">
+      <DependentUpon>supplierReportViews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplier_payment_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplier_payment_insert.Designer.cs">
+      <DependentUpon>supplier_payment_insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transfer_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transfer_delete.designer.cs">
+      <DependentUpon>transfer_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transFormEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transFormEdit.Designer.cs">
+      <DependentUpon>transFormEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transformItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transformItem.Designer.cs">
+      <DependentUpon>transformItem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="about_bb.resx">
+      <DependentUpon>about_bb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration.resx">
+      <DependentUpon>Administration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllBalReportRange.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AllBalReportRange.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllitemBalDate.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AllitemBalDate.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="allitemBalView.resx">
+      <DependentUpon>allitemBalView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="allProfit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>allProfit.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChallanDelete.resx">
+      <DependentUpon>ChallanDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChallanEdit.resx">
+      <DependentUpon>ChallanEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="challan_in.resx">
+      <DependentUpon>challan_in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="challan_info.resx">
+      <DependentUpon>challan_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="challan_return.resx">
+      <DependentUpon>challan_return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="challan_return_delete.resx">
+      <DependentUpon>challan_return_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="challan_return_edit.resx">
+      <DependentUpon>challan_return_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="damage.resx">
+      <DependentUpon>damage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="damage_delete.resx">
+      <DependentUpon>damage_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="damage_edit.resx">
+      <DependentUpon>damage_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="devel.resx">
+      <DependentUpon>devel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_delete.resx">
+      <DependentUpon>employee_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_edit.resx">
+      <DependentUpon>employee_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_info.resx">
+      <DependentUpon>employee_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_payment.resx">
+      <DependentUpon>employee_payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empPrintSlip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>empPrintSlip.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPRepotViews.resx">
+      <DependentUpon>EMPRepotViews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="group_view.resx">
+      <DependentUpon>group_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="item.resx">
+      <DependentUpon>item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemBalanceReport.resx">
+      <DependentUpon>ItemBalanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemBalanceSaleW.resx">
+      <DependentUpon>ItemBalanceSaleW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemDelete.resx">
+      <DependentUpon>ItemDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemEdit.resx">
+      <DependentUpon>ItemEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemInformationReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>itemInformationReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemInformatonReportViews.resx">
+      <DependentUpon>itemInformatonReportViews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemLager.resx">
+      <DependentUpon>ItemLager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LagerReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LagerReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintMemo.resx">
+      <DependentUpon>PrintMemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profitReportDate.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>profitReportDate.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfitRSelection.resx">
+      <DependentUpon>ProfitRSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profitView.resx">
+      <DependentUpon>profitView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleEdit.resx">
+      <DependentUpon>saleEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleItemBalDAteView.resx">
+      <DependentUpon>saleItemBalDAteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleReportDateRange.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>saleReportDateRange.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleReportView.resx">
+      <DependentUpon>SaleReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesItemBalDAte.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalesItemBalDAte.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesReportDate.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>salesReportDate.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesViewItemDAte.resx">
+      <DependentUpon>SalesViewItemDAte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="security.resx">
+      <DependentUpon>security.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supBalPaymentRViews.resx">
+      <DependentUpon>supBalPaymentRViews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supBalPaymentSlip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>supBalPaymentSlip.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supBalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>supBalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier.resx">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplierDelete.resx">
+      <DependentUpon>supplierDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplierEdit.resx">
+      <DependentUpon>supplierEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplierReportViews.resx">
+      <DependentUpon>supplierReportViews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier_payment_insert.resx">
+      <DependentUpon>supplier_payment_insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transfer_delete.resx">
+      <DependentUpon>transfer_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transFormEdit.resx">
+      <DependentUpon>transFormEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transformItem.resx">
+      <DependentUpon>transformItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="empPayDataset.xsc">
+      <DependentUpon>empPayDataset.xsd</DependentUpon>
+    </None>
+    <None Include="empPayDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>empPayDataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="empPayDataset.xss">
+      <DependentUpon>empPayDataset.xsd</DependentUpon>
+    </None>
+    <None Include="ILdataset.xsc">
+      <DependentUpon>ILdataset.xsd</DependentUpon>
+    </None>
+    <None Include="ILdataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ILdataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ILdataset.xss">
+      <DependentUpon>ILdataset.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="suplierPaymentDataset.xsc">
+      <DependentUpon>suplierPaymentDataset.xsd</DependentUpon>
+    </None>
+    <None Include="suplierPaymentDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>suplierPaymentDataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="suplierPaymentDataset.xss">
+      <DependentUpon>suplierPaymentDataset.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xcover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lofdsfgo.ico" />
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Crystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalActiveXReportViewerLib13">
+      <Guid>{B816E96D-D151-4000-BADB-53A2D8F3FC65}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportViewerExportLib">
+      <Guid>{5C21A516-C6AC-42F2-A7B7-846FFE1B122A}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

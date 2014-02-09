@@ -1,0 +1,22 @@
+
+# Insertion Option
+
+Here you store transform information. To store info in database you must fill up all option otherwise you can't 
+save transform informatio. Fill the all empty white fields and press "Add" button to save informtion about 
+transform. After Successfully done then it show a successull message.
+
+
+# Edit Option
+
+In this option you can edit transform information. First chose the transform No which one you want to edit then
+change the information and just press "Save" button. After Successfully done then it show a successull 
+message.
+
+
+# Delete Option
+
+
+In this option you can delete transform. First chose the transform no which one you want to delete then 
+just press the "Delete" button. After Successfully done then it show a successull message.
+
+

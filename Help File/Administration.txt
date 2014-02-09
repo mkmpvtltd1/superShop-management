@@ -1,0 +1,26 @@
+
+# Create User 
+
+--->> Here you can create user to use this software. You can create use two types one "Admin" type anotherone is
+Normal type. Which user are "Admin" type he can do "Create User" "Delete User" "Change User Password" and 
+which user are normal type he just insert data into database. He can't see the "Administration" button.
+After Successfully done then it show a successull message.
+
+
+
+
+# Delete
+
+
+---->>>> In this stage you can delete a user which one you don't need anymore. Just chose the user name form
+the white empty field and press the "Delete" button. After Successfully done then it show a successull message.
+
+
+
+
+# Change Password 
+
+
+---->>>>In this option you change any user password. In "Usernae" white box select the username whiche one you want to
+change the password then give the current password in  "Current Password" white box and then give a new password
+in "New Password" white box then just click "Update" button. After Successfully done then it show a successull message.

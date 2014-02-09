@@ -1,0 +1,22 @@
+
+# Insertion Option
+
+Here you store supplier all information. To store info in database you must fill up "Supplier Name" "Account No"
+"Address 1" "Phone No" "Contact Person" option otherwise you can't save supplier informatio. Fill the all 
+empty white fields and press "Add" button to save informtion about supplier. After Successfully done then it 
+show a successull message.
+
+
+# Edit Option
+
+In this option you can edit supplier information. First chose the supplier name which one you want to edit then
+change the information and just press "Save" button. After Successfully done then it show a successull message.
+
+
+# Delete Option
+
+
+In this option you can delete supplier. First chose the supplier name which one you want to delete then 
+just press the "Delete" button. After Successfully done then it show a successull message.
+
+
