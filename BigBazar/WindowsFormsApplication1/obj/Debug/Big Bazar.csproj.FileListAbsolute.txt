@@ -246,3 +246,57 @@ E:\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsAppli
 E:\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Debug\Big Bazar.csproj.ResolveComReference.cache
 E:\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 E:\Dropbox\Ulterior Projects\Delevary items\Big Bazar Multi PC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\Big Bazar.csproj.ResolveComReference.cache
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\Big Bazar.csprojResolveAssemblyReference.cache
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.about_bb.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administration.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.allitemBalView.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChallanDelete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChallanEdit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.challan_in.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.challan_info.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.challan_return.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.challan_return_delete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.challan_return_edit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.damage.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.damage_delete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.damage_edit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.devel.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.employee_delete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.employee_edit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.employee_info.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.employee_payment.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EMPRepotViews.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.group_view.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.item.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ItemBalanceReport.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ItemBalanceSaleW.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ItemDelete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ItemEdit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.itemInformatonReportViews.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ItemLager.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mainform.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PrintMemo.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ProfitRSelection.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.profitView.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.saleEdit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.saleItemBalDAteView.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SaleReportView.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sales.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SalesViewItemDAte.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.security.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.supBalPaymentRViews.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.supplier.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.supplierDelete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.supplierEdit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.supplierReportViews.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.supplier_payment_insert.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.transfer_delete.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.transFormEdit.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.transformItem.resources
+E:\Github Projects\superShop-management\superShop-management\BigBazar\WindowsFormsApplication1\obj\Debug\Big Bazar.csproj.GenerateResource.Cache
